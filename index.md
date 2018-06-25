@@ -7,5 +7,3 @@
 > **Our mission is to truly connect people with value and information, reduce information asymmetry and enable financial inclusion in the world by leveraging Blockchain and AI technology.**
 
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
